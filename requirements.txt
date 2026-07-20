@@ -1,0 +1,9 @@
+Flask
+requests
+pycryptodome
+protobuf
+gunicorn 
+asyncio
+httpx
+json
+google.protobuf
