@@ -5,3 +5,4 @@ protobuf
 gunicorn
 httpx
 flask_cors
+main_pb2
