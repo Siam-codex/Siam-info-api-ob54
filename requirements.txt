@@ -4,3 +4,4 @@ pycryptodome
 protobuf
 gunicorn
 httpx
+flask_cors
