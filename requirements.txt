@@ -4,4 +4,3 @@ pycryptodome
 protobuf
 gunicorn 
 asyncio
-google.protobuf
