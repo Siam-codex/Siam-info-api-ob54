@@ -2,5 +2,4 @@ Flask
 requests
 pycryptodome
 protobuf
-gunicorn 
-asyncio
+gunicorn
